@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(235, 192, 229);
+}
+.main-title{
+    -webkit-box-shadow: 5px 5px 16px 8px #000000; 
+    box-shadow: 5px 5px 16px 8px #000000; 
+}

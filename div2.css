@@ -1,0 +1,39 @@
+.second{
+    height:700px ; 
+    width: 600px;  
+    float:left; 
+}
+body{
+    background-color: rgb(187, 240, 190);
+}
+.q{
+    float: left;
+    display: block;
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+}
+.w{
+    float: left;
+    display: block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.e{
+    background-color: chartreuse;
+    width: 200px;
+    height: 200px;
+    float: left;
+    display: block; 
+}
+.main{
+   background-color: rgb(82, 97, 96); 
+   width: 600px; 
+   height: 400px;
+   display: block; 
+   
+}
+.r{
+
+}

@@ -1,0 +1,24 @@
+.header{
+   background-color: rgb(124, 255, 246); 
+   width: 500px;
+   
+}
+.red{
+background-color: crimson;
+width: 500px;
+height: 200px;
+}
+body{
+    background-color: rgb(187, 240, 190);
+}
+.blue{
+background-color: blue;
+width: 500px;
+height: 200px;
+}
+.green{
+    background-color: chartreuse;
+    width: 500px;
+    height: 200px;
+}
+

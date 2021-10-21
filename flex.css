@@ -1,0 +1,52 @@
+.header{
+    width: 1500px;
+    height: 100px;
+    background-color: black;
+}
+.father{
+   width: 1500px; 
+   height: 700px;
+   background-color: rgb(127, 158, 91);
+   display: flex;
+   justify-content: flex-end;
+}
+.Item{
+    width: 1000px;
+    height: 700px;
+    background-color: rgb(251, 255, 14);
+    display: flex;
+    justify-content: flex-end;
+}
+.articles{
+    width: 1500px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.flex{
+    width: 1000px;
+height: 400px;
+background: url("https://wordpress-developer.pp.ua/wp-content/uploads/flexbox-css.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 50px;
+}
+h3{
+    text-align: center;
+}
+
+
+.footer{
+    width: 1500px;
+    height: 100px;
+    background-color: black;   
+}
+.box{
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    justify-content: space-around;
+}

@@ -1,0 +1,115 @@
+.img{
+    height: 1000px;
+    width: 500px;
+    
+    display: flex;
+    flex-direction: row;
+
+}
+.cssbackground{
+width: 500px;
+background-color: rgb(69, 69, 143);
+
+}
+.scssbackground{
+display: flex;
+flex-direction: row;
+background-color: rgb(69, 69, 143);;
+width: 500px;
+height: 200px;
+}
+.css{
+    background-color: azure;
+    width: 100%;
+}
+.a{
+    width: 30px;
+    height: 30px;
+}
+.tcss{
+    width: 100px;
+    height: 100px;
+    background: url("https://static.posters.cz/image/750/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D0%B8/marvel-universe-i31869.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px;
+}
+.acss{
+    width: 100px;
+height: 100px;
+background: url("https://www.mirf.ru/wp-content/uploads/2015/12/Homepage21.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 25px; 
+}
+.bcss{
+    width: 100px;
+    height: 100px;
+    background: url("https://www.megacritic.ru/media/reviews/photos/thumbnail/640x640s/2e/0e/bc/843650-22-1553011940.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px; 
+}
+.ccss{
+    width: 500px;
+    height: 300px;
+    background: url("https://cdnimg.rg.ru/img/content/202/87/87/youtube.com_Marvel_Entertainment_d_850.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.fimg{
+    width: 400px;
+    height: 166.6px;
+    background: url("https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxy_EidosMontral_S3_2560x1440-6aecbc6825954678a5a4f3b625988b19");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.simg{
+    width: 400px;
+    height: 166.6px;
+    background: url("https://cdn.cloudflare.steamstatic.com/steam/apps/997070/capsule_616x353.jpg?t=1630423045");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.timg{
+    width: 400px;
+    height: 166.6px;
+    background: url("https://mmo13.ru/download/content/202107/05/11/image_60e2c7e1ad46d0.27653893.jpg?1625475038");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.dcss{
+width: 1000px;}
+
+.ecss{
+    width: 500px;
+    height: 300px;
+    background: url("https://b1.filmpro.ru/c/297821.700xp.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.fcss{
+    width: 500px;
+    height: 300px;
+    background: url("https://cdn02.nintendo-europe.com/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_marvelultimatealliance3theblackorder_1/NSwitch_MarvelUltimateAlliance3TheBlackOrder_01~1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+
+}
+.gcss{
+    width: 500px;
+    height: 300px;
+    background: url("http://wordpress-ukr.s3.eu-central-1.amazonaws.com/wp-content/uploads/2021/09/28104157/marvel_universe.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}

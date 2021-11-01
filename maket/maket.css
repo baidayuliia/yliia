@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1600px;
+    height: 770px;
+    background: url("Без названия.png");
+    background-size:cover;
+}
+.header-logo{
+    width: 110px;
+    height: 50px;
+}
+.WELCOME{
+    width: 600px;
+    height: 100px;
+    justify-content: center;
+}

@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background: url("Без назания.png");
+    background-size:cover;
+    background-color: white;
+    color: whitesmoke ;
+    font-family:'Montserrat', sans-serif;
+    font-size: 15px;
+}
+.header-logo{
+    width: 110px;
+    height: 50px;
+}
+.WELCOME{
+    margin-top: 37px;
+    display: flex;
+    align-items: center;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+}
+.container{
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header-top{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.menu-itemn{
+    list-style-type: none;
+    margin: 0 15px;
+}
+.menu-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.header-logo, .header-menu{
+    margin-top: 40px;
+}
+a{
+    color: whitesmoke ;
+}
+.menu-list{
+    display: flex;
+}
+.header-intro{
+    margin-left: 400px;
+    margin-top: 257px;
+    font-size: 40;
+}
+button{
+    width: 175px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid white;
+    margin-top: 50px;
+    color: whitesmoke ;
+}
+.servises{
+width: 1111px;
+height: 6473px;
+background-color: whitesmoke;
+display: flex;
+align-items: flex-end;
+}
+.SERVISES{
+    width: 100px;
+    height: 16px;
+    font-size: 20;
+    text-align: center;
+    margin-left: 750px;
+    margin-top: 345px;
+}
+.text{
+    width: 476px;
+    height: 92px;
+}
+.asd{
+width: 50px;
+height: 3px;
+background-color: black;
+}

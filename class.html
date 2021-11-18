@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="class.css">
+</head>
+<body>
+    <div>
+        <article>
+            <h1>LINK PSEUDO-CLASSES</h1>
+            <p class=":visied"><a href="#">:visied pseudo-classes</a></p>
+            <p class=":link"> <a href="#">:link pseudo-classes</a></p>
+            <h1>USER ACTION PSEUDO-CLASSES</h1>
+            <p class="hover"><a href="#">:hover pseudo-classes</a></p>
+            <p class="active"><a href="#">active pseudo-classes</a></p>
+            <p class="focus"><a href="#">focus pseudo-classes</a></p>
+            <h1>USER INTERFACE STATE PSEUDO-CLASSES</h1>
+            <form class="form">
+                <h2>First Name:</h2>
+                <input type="text" placeholder="MALKOLM">
+                <h2>Last Name:</h2>
+                <input type="text" placeholder="Reynolds" disabled>
+                <h2> I own a Firefly-class transport ship</h2>
+                <input type="checkbox">
+            </form>
+            <h1>STRUCTURAL AND POSITION PSEUDO-CLASSES</h1>
+            <h2>:first-child :last-child and :only-child</h2>
+               <li><strong>list item is selected by :first-child</strong> </li>
+               <li>This list item is not selected</li>
+               <div class="sdf"></div>
+               <li>THIS LISTED LINK IS SELECTED BY :ONLY-CHILD</li>
+               <li>This list item is selected by :last-child</li> 
+        </article>
+        <article>
+            <h3>:first-of-type :last-of-type and :only-of-type</h3>
+            <h4>This paragraph is selected by :first-of-type</h4>
+            <h4>This paragraph will not be selected</h4>
+            <h4>THIS SPAN IS SELECTED BY :ONLY-OF-TYPE</h4>
+            <h4>This paragraph is selected by :last-of-type</h4>
+            <h3>:nth-child(n) and :nth-last-child(n)</h3>
+            <h2>First line of text</h2>
+            <h2>Second line of text</h2>
+            <h2>Third line of text</h2>
+            <h2>Fourth line of text</h2>
+            <h2>Fifth line of text</h2>
+            <h2>Sixth line of text</h2>
+            <h3>:nth-of-type(n) and :nth-last-of-type(n)</h3>
+            <h6>First line of text</h6>
+            <h6>Second line of text</h6>
+            <h6>Third line of text</h6>
+            <h6>Fourth line of text</h6>
+            <h6>Fifth line of text</h6>
+            <h6>Sixth line of text</h6>
+            <h1>NEGATION PSEUDO-CLASS</h1>
+            <h3>This is some bold text</h3>
+            <h3>This is some more bold text</h3>
+            <h3>This is selected with :not(.bold) and is not bold</h3>
+        </article>
+    </div>
+</body>
+</html>

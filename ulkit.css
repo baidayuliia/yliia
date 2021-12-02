@@ -1,0 +1,34 @@
+
+.uk-card-footer{
+   background-color: rgb(80, 78, 78); 
+
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.56);
+-moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.56);
+box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.56);
+height: 300px;
+margin: 30px;
+}
+.uk-card-header{
+   display: flex;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+header:hover{
+    width: ;
+}
+.body{
+    display: flex;
+    flex-direction: row;
+}
+.Planned{
+    width: 300px;
+    height: 250px;
+}

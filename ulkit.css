@@ -6,12 +6,13 @@
 .header{
     display: flex;
     flex-direction: column;
-    width: 25%;
+    width: 75%;
     -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.56);
 -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.56);
 box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.56);
 height: 300px;
 margin: 30px;
+
 }
 .uk-card-header{
    display: flex;
@@ -21,14 +22,37 @@ margin: 30px;
     display: flex;
     flex-direction: column;
 }
-header:hover{
-    width: ;
-}
+
 .body{
     display: flex;
     flex-direction: row;
 }
 .Planned{
-    width: 300px;
+    width: 33%;
     height: 250px;
+    -webkit-box-shadow: -10px 1px 5px -5px rgba(34, 60, 80, 0.34) inset;
+-moz-box-shadow: -10px 1px 5px -5px rgba(34, 60, 80, 0.34) inset;
+box-shadow: -10px 1px 5px -5px rgba(34, 60, 80, 0.34) inset;
+}
+.in-progress{
+    width: 33%;
+    height: 250px; 
+    -webkit-box-shadow: -10px 1px 5px -5px rgba(34, 60, 80, 0.34) inset;
+-moz-box-shadow: -10px 1px 5px -5px rgba(34, 60, 80, 0.34) inset;
+box-shadow: -10px 1px 5px -5px rgba(34, 60, 80, 0.34) inset;
+}
+.completed{
+    width: 33%;
+    height: 250px;
+}
+.header:hover {
+    width: 450px;
+    height: 320px;
+}
+h1{
+    text-align: center;
+}
+img:hover {
+width:50px ;
+height: 60px;
 }

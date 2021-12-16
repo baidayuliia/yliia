@@ -1,0 +1,36 @@
+.header{
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+}
+.header-top{
+    display: flex;
+    flex-direction: row;
+    width: 1440px;
+    height: 100px;
+
+}
+.img{
+    width: 131px;
+    height: 72px;
+    background: url("logo (1) 1.png");
+}
+hr{
+
+width: 1px;
+height: 40px;
+margin-left: 40px;
+margin-top: 31px;
+}
+.language{
+
+}
+.ua{
+    width: 22px;
+    height: 21px;
+}
+.ru{
+    width: 26px;
+    height: 21px;
+    background-color: rgb(77, 245, 133);
+}

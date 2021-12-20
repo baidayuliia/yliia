@@ -1,0 +1,204 @@
+.header{
+display: flex;
+position: absolute;
+}
+.header-top{
+display: flex;
+flex-direction: row;
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 0px;
+top: 100px;
+
+background: #FFFFFF;
+
+}
+.header-logo{
+
+}
+.image{
+    
+    background: url("logo (1) 1.png");
+    position: absolute;
+width: 131px;
+height: 72px;
+left: 100px;
+top: 17px;
+}
+.ua{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 285px;
+    top: 16px;
+    
+    font-family: Suisse Int'l Trial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #1F1F1F;
+} 
+.ru{
+    position: absolute;
+    width: 24px;
+    height: 21px;
+    left: 284px;
+    top: 51px;
+    
+    font-family: Suisse Int'l Trial;
+    
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+    
+    text-align: center;
+    background-color: rgb(77, 245, 133);
+    
+}
+.hr1{
+    position: absolute;
+    width: 2px;
+    height: 40px;
+    left: 258px;
+    top: 31px;
+  
+background:#E2E2E2 ;
+    
+}
+.hr2{
+    position: absolute;
+width: 2px;
+height: 40px;
+left: 339px;
+top: 31px;
+
+background:#E2E2E2 ;
+
+}
+.us{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 31px;
+    
+    font-family: Suisse Int'l Trial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    
+    color: #393939;
+    
+}
+.eu{
+   
+    position: absolute;
+width: 74px;
+height: 19px;
+left: 365px;
+top: 54px;
+
+font-family: Suisse Int'l Trial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #393939;
+}
+.hr3{
+    position: absolute;
+    width: 2px;
+    height: 40px;
+    left: 465px;
+    top: 31px;
+    
+    background: #E2E2E2;
+}
+.facebook{
+    position: absolute;
+    left: 34.78%;
+    right: 33.21%;
+    top: 42px;
+    bottom: 0%;
+ 
+}
+.instagram{
+    position: absolute;
+left: 37.5%;
+right: 37.13%;
+top: 42px;
+bottom: 24.3%;
+}
+.youtube{
+    position: absolute;
+    left: 40.08%;
+    right: 40.17%;
+    top: 42px;
+    bottom: 18.06%;
+}
+.hr4{
+    position: absolute;
+width: 2px;
+height: 40px;
+left: 615px;
+top: 31px;
+
+background: #E2E2E2;
+}
+.tel{
+    
+}
+.tel1{
+    
+}
+.tel2{
+    position: absolute;
+    width: 128px;
+    height: 21px;
+    left: 627px;
+    top: 29px;
+    
+    font-family: Suisse Int'l Trial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    text-align: center;
+   
+}
+.tel3{
+    position: absolute;
+    width: 120px;
+    height: 21px;
+    left: 627px;
+    top: 55px;
+    
+    font-family: Suisse Int'l Trial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    text-align: center; 
+}
+.tel-img{
+    position: absolute;
+left: 720px;
+right: 720px;
+top: 32px;
+bottom: 0%;
+
+
+}

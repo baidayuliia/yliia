@@ -1,6 +1,7 @@
 .header{
 display: flex;
 position: absolute;
+left: 100px;
 }
 .header-top{
 display: flex;
@@ -199,6 +200,1063 @@ left: 720px;
 right: 720px;
 top: 32px;
 bottom: 0%;
+}
+.hr5{
+    position: absolute;
+    width: 2px;
+    height: 40px;
+    left: 826px;
+    top: 31px;
+    
+    background: #E2E2E2;
+  }  
+  .maistra{
+    position: absolute;
+    width: 240px;
+    height: 55px;
+    left: 862px;
+    top: 23px;
+    
+    background: #EFF3F6;
+    border-radius: 2px;
+  }
+  .text{
+    position: absolute;
+    width: 145px;
+    height: 20px;
+    top: 17px;
+    left: 20px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+  }
+  .red{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 190px;
+    
+    background: #DD4053;
+    border-radius: 2px;
+  }
+  .calendar{
+    position: absolute;
+    left: 28.63%;
+    right: 23.54%;
+    top: 38.82%;
+    bottom: 25.31%;
+    
+    color: white;
+  }
+  .tur{
+    position: absolute;
+    width: 205px;
+    height: 55px;
+    left: 1132px;
+    top: 23px;
+    
+    background: #EFF3F6;
+    border-radius: 2px;
+  }
+  .text1{
+    position: absolute;
+    width: 118px;
+    height: 20px;
+    top: 17px;
+    left: 20px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+  }
+  .green{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 190px;
+    background: #4AD295;
+    border-radius: 2px;
+  }
+  .search{
+    position: absolute;
+    left: 28.63%;
+    right: 23.54%;
+    top: 38.82%;
+    bottom: 25.31%;
+    
+    color: white;
+  }
+  .hr6{
+    position: absolute;
+    width: 1440px;
+    height: 1px;
+    left: 0px;
+    top: 200px;
+    
+    background: #D0D0D0;
+  }
+  .header-logo{
+    position: absolute;
+    width: 1440px;
+    height: 70px;
+    left: 0px;
+    top: 201px;
+    }
+    .search1{
+        width: 19px;
+        height: 17.17px;
+        position: absolute;
+        left: 15%;
+        right: 16%;
+        top: 29%;
+        bottom: 7%;
+       
+    }
+    .hotel{
+        position: absolute;
+        width: 48px;
+        height: 19px;
+        left: 283px;
+        top: 23px;
+
+        font-family: Suisse Int'l Trial;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 19px;
+
+        color: #171717;
+}
+.hoteltx{
+    color: #171717;
+}
+.country{
+    position: absolute;
+    width: 56px;
+    height: 19px;
+    left: 389px;
+    top: 23px;
+    
+    font-family: Suisse Int'l Trial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #616161;
+    
+}
+.avia{
+    position: absolute;
+width: 37px;
+height: 19px;
+left: 514px;
+top: 23px;
+
+font-family: Suisse Int'l Trial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #616161;
+}
+.catalog{
+    position: absolute;
+width: 103px;
+height: 19px;
+left: 621px;
+top: 23px;
+
+font-family: Suisse Int'l Trial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #616161;
+}
+.agent{
+    position: absolute;
+width: 61px;
+height: 19px;
+left: 780px;
+top: 23px;
+
+font-family: Suisse Int'l Trial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #616161;
+}
+.pro-nas{
+    position: absolute;
+    width: 71px;
+    height: 19px;
+    left: 917px;
+    top: 23px;
+    
+    font-family: Suisse Int'l Trial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    
+    color: #616161;
+     
+}
+.blog{
+    position: absolute;
+width: 34px;
+height: 19px;
+left: 1064px;
+top: 23px;
+
+font-family: Suisse Int'l Trial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #616161;
+}
+.faq{
+    position: absolute;
+width: 29px;
+height: 19px;
+left: 1158px;
+top: 23px;
+
+font-family: Suisse Int'l Trial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #616161;
+
+}
+.contacts{
+    position: absolute;
+width: 29px;
+height: 19px;
+left: 1258px;
+top: 23px;
+
+font-family: Suisse Int'l Trial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #616161;
+
+}
+.carusel{
+    position: absolute;
+width: 1440px;
+height: 490px;
+left: 100px;
+top: 300px;
+
+background:  url("https://www.yana.kiev.ua/upload/image/titanik.jpg");
+}
+.cina{
+    position: absolute;
+width: 249px;
+height: 45px;
+left:12%;
+top: 110px;
+
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+
+}
+.cinatx{
+    position: absolute;
+width: 205px;
+height: 32px;
+left: 12%;
+top: 7px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
 
 
+color: #000000;
+
+}
+.eco{
+    position: absolute;
+width: 725px;
+height: 102px;
+left: 12%;
+top: 185px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 55px;
+/* or 122% */
+
+text-transform: uppercase;
+
+color: #000000;
+}
+button{
+    position: absolute;
+width: 270px;
+height: 60px;
+left: 200px;
+top: 377px;
+
+background: rgba(255, 255, 255, 0.226);
+border-radius: 2px;
+color: white;
+font-weight: bold;
+}
+.service{
+    position: absolute;
+width: 1440px;
+height: 250px;
+left: 100px;
+top:760px;
+
+background: #F8F8F8;
+display: flex;
+flex-direction: row;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.text-serv{
+    position: absolute;
+width: 624px;
+height: 72px;
+left: 12%;
+top: 30px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+/* or 120% */
+
+
+color: #1D1D1D;
+
+}
+.text1-serv{
+    position: absolute;
+width: 335px;
+height: 28px;
+left: 12%;
+top: 117px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+
+color: #777777;
+}
+.question{
+    display: flex;
+    flex-direction: row;
+}
+.offers{
+    position: absolute;
+width: 270px;
+height: 50px;
+left: 12%;
+top: 165px;
+
+background: #BDBDBD;
+border-radius: 2px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.question-text{
+    top: 15px;
+    left: 44px;
+    
+position: absolute;
+width: 182px;
+height: 20px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.question1-text{
+    position: absolute;
+    width: 122px;
+    height: 20px;
+    left: 50px;
+    top: 15px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #969696;
+}
+.advice{
+    position: absolute;
+    width: 220px;
+    height: 50px;
+    left: 35%;
+    top: 165px;
+    
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.circle{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 62%;
+top: 37px;
+background-color: rgba(216, 191, 216, 0);
+border: 1.2px dashed #969696;
+box-sizing: border-box;
+background: url("Ellipse 13.png");
+}
+.circle1{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 62%;
+top: 102px;
+background-color: rgba(216, 191, 216, 0);
+border: 1.2px dashed #969696;
+box-sizing: border-box;
+background: url("Ellipse 13.png");
+}
+.circle2{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 62%;
+top: 167px;
+background-color: rgba(216, 191, 216, 0);
+border: 1.2px dashed #969696;
+box-sizing: border-box;
+background: url("Ellipse 13.png");
+}
+.list{
+    position: absolute;
+width: 370px;
+height: 19px;
+left: 949px;
+top: 27px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 66px;
+/* or 367% */
+
+
+color: #3D3D3D;
+}
+.list1{
+    position: absolute;
+    width: 370px;
+    height: 19px;
+    left: 949px;
+    top: 92px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 66px;
+    /* or 367% */
+    
+    
+    color: #3D3D3D;
+}
+.list2{
+    position: absolute;
+    width: 370px;
+    height: 19px;
+    left: 949px;
+    top: 157px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 66px;
+    /* or 367% */
+    
+    
+    color: #3D3D3D;
+}
+.top-hoteltx{
+    position: absolute;
+width: 411px;
+height: 43px;
+left: 298px;
+top: 1100px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 55px;
+/* or 122% */
+
+
+color: #232323;
+}
+.circle-left{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 659px;
+top: 1100px;
+
+border: 1px solid #C6C6C6;
+box-sizing: border-box;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+border-radius: 50%;
+}
+.arrow-lf{
+    position: absolute;
+left: 30%;
+top: 15px;
+bottom: 0%;
+color:#C6C6C6 ;
+}
+.circle-right{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 729px;
+top: 1100px;
+border-radius: 50%;
+border: 1px solid #454545;
+box-sizing: border-box;
+}
+.arrow-rg{
+    position: absolute;
+    left: 30%;
+    top: 15px;
+    bottom: 0%;
+}
+.line{
+    position: absolute;
+width: 237px;
+height: 1px;
+left: 837px;
+top: 1122px;
+
+background: #C4C4C4;
+}
+.all-hotel{
+    position: absolute;
+width: 140px;
+height: 45px;
+left: 1100px;
+top: 1100px;
+
+border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 2px;
+}
+.all-hoteltx{
+    position: absolute;
+width: 76px;
+height: 17px;
+left: 32px;
+top: 14px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #969696;
+
+}
+.Montenegro{
+    background: url("https://interparus.com/wp-content/uploads/2019/08/port-herceg-novi-1.png");
+    position: absolute;
+    width: 460px;
+ height: 450px;
+left: 100px;
+top: 1195px;
+}
+.montenegro{
+    position: absolute;
+width: 195px;
+height: 30px;
+left: 0px;
+top: 15px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.6) 100%);
+background: rgba(0, 0, 0, 0.151);
+}
+.montenegrotx{
+    position: absolute;
+    width: 167px;
+    height: 24px;
+    left: 15px;
+    top: 8px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+ 
+}
+.star{
+    position: absolute;
+left: 185px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star1{
+    position: absolute;
+left: 209px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star2{
+    position: absolute;
+left: 233px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star3{
+    position: absolute;
+left: 257px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.montenegro-hoteltx{
+    position: absolute;
+width: 249px;
+height: 34px;
+left: 106px;
+top: 228px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* identical to box height, or 170% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.Istra{
+    background: url("https://feerie.com.ua/sites/default/files/styles/for_tour2/public/2021-05/sea-3069243_1920.jpg?h=d1d329dc&itok=rAOsngeG");
+    position: absolute;
+width: 460px;
+height: 450px;
+left: 590px;
+top: 1195px;
+}
+.istra{
+    position: absolute;
+    width: 195px;
+    height: 30px;
+    left: 0px;
+    top: 15px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.6) 100%);
+    background: rgba(0, 0, 0, 0.151);
+}
+.istratx{
+    position: absolute;
+    width: 167px;
+    height: 24px;
+    left: 15px;
+    top: 8px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.star4{
+    position: absolute;
+left: 173px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star5{
+    position: absolute;
+left: 197px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star6{
+    position: absolute;
+left: 221px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star7{
+    position: absolute;
+left: 245px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star8{
+    position: absolute;
+left: 269px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+
+.istra-hoteltx{
+    position: absolute;
+width: 249px;
+height: 34px;
+left: 106px;
+top: 228px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* identical to box height, or 170% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.Naftalan{
+    position: absolute;
+width: 460px;
+height: 450px;
+left: 1080px;
+top: 1195px;
+background: url("https://media-cdn.tripadvisor.com/media/photo-s/12/f7/d9/52/rovinj.jpg");
+}
+.naftalan{
+    position: absolute;
+    width: 195px;
+    height: 30px;
+    left: 0px;
+    top: 15px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.6) 100%);
+    background: rgba(0, 0, 0, 0.151);  
+}
+.naftalantx{
+    position: absolute;
+    width: 167px;
+    height: 24px;
+    left: 15px;
+    top: 8px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.star9{
+    position: absolute;
+left: 185px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star10{
+    position: absolute;
+left: 209px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star11{
+    position: absolute;
+left: 233px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.star12{
+    position: absolute;
+left: 257px;
+right: 79.34%;
+top: 180px;
+bottom: 0%;
+color:  #FFD600;
+width: 18.75px;
+height: 18px;
+}
+.naftalan-hoteltx{
+    position: absolute;
+width: 249px;
+height: 34px;
+left: 106px;
+top: 228px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* identical to box height, or 170% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.current-tours{
+    position: absolute;
+width: 478px;
+height: 55px;
+left: 300px;
+top: 1745px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 55px;
+/* identical to box height, or 122% */
+
+
+color: #232323;
+}
+.line1{
+    position: absolute;
+width: 340px;
+height: 1px;
+left: 734px;
+top: 1767px;
+
+background: #C4C4C4;
+}
+.all-tours{
+    position: absolute;
+width: 140px;
+height: 45px;
+left: 1100px;
+top: 1745px;
+
+border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 2px;
+}
+.all-tourstx{
+    position: absolute;
+width: 70px;
+height: 17px;
+left: 35px;
+top: 14px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #838383;
+}
+.hotel-cine{
+    position: absolute;
+width: 327px;
+height: 480px;
+left: 300px;
+top: 1840px;
+
+background: #f1f1f1;
+}
+.hotel-cineimg{
+    width: 327px;
+    height: 240px;
+    background: url("https://static.ukrinform.com/photos/2020_06/thumb_files/630_360_1592652294-627.jpg");
+}
+.name{
+    position: absolute;
+width: 249px;
+height: 34px;
+left: 20px;
+top: 255px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* identical to box height, or 170% */
+
+text-transform: uppercase;
+
+color: #919191;
+}
+.nametx{
+    position: absolute;
+width: 316px;
+height: 30px;
+left: 15px;
+top: 298px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+/* or 150% */
+
+
+color: #848484;
+
+}
+.palka{
+    position: absolute;
+width: 280px;
+height: 1px;
+left: 160px;
+top: 238px;
+
+background: #E8E8E8;
 }
